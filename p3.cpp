@@ -55,6 +55,17 @@ ListNode* findNode(ListNode* head, int value) {
 // Si intersectVal no se encuentra, las listas permanecen separadas   
 void connectLists(ListNode* listA, ListNode* listB, int intersectVal) {
     //TODO: implemente aqui
+    ListNode* tempA = listA;
+    ListNode* tempB = listB;
+    while(tempA!=nullptr || tempB != nullptr ){
+        if(tempA->val == intersectVal || tempB->val ==intersectVal){
+            
+        }
+        if(tempA->val != intersectVal)
+            tempA = tempA->next;
+        if(tempB->val != intersectVal)
+            tempB = tempB->next;
+    }
 }
 
 

@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/INK5rVnQ)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20462785&assignment_repo_type=AssignmentRepo)
 # Tabla Hash con Chaining
 
 ## Descripción
@@ -56,8 +58,13 @@ Liberar toda la memoria utilizada.
 
 ## Resolver ejercicios:
 - **P1:** Cargar datos desde CSV y mostrar la distribución en buckets. Implementar los iteradores `begin()` y `end()` para recorrer elementos de cada bucket específico.
+  <img width="1193" height="553" alt="image" src="https://github.com/user-attachments/assets/a1544ee5-0be5-457e-9592-52487c66c6da" />
+
 - **P2:** Implementar algoritmo "Bag of Words" usando tabla hash. Crear un diccionario que mapee cada palabra a los índices de documentos donde aparece.
+<img width="742" height="662" alt="image" src="https://github.com/user-attachments/assets/7abe7c29-b880-4785-b566-50323e1284ed" />
+
 - **P3:** Resolver el problema de intersección de listas enlazadas usando tabla hash. Implementar `connectLists()` para crear intersecciones y `getIntersectionNode()` para encontrarlas eficientemente.
+<img width="872" height="798" alt="image" src="https://github.com/user-attachments/assets/2e6d5f81-0218-4260-b133-faacc98c43b1" />
 
 ## Compilación y Ejecución
 ```bash
